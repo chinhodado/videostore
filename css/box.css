@@ -1,0 +1,33 @@
+.wrap {
+	float:left;
+	display: block;
+	height: 300px;
+	width:230px;
+	margin:  20px;
+	padding: 12px;
+	-webkit-box-shadow: 0px 0px 5px rgba(0,0,0,.8);
+	-moz-box-shadow: 0px 0px 5px rgba(0,0,0,.8);
+	box-shadow: 0px 0px 5px rgba(0,0,0,.8);
+	position: relative; 
+	background-color:#fff ; 
+	text-align: center;
+	
+}
+
+.wrap p{ 
+	margin-top: 15px;
+	text-align: justify;
+
+}
+
+.wrap li{ 
+	margin-top: 15px;
+	text-align: left;
+
+}
+
+.wrap h1{
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 5px;  
+}
